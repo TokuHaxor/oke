@@ -251,7 +251,7 @@ input[type=text], option, select {
 }
 ul{
     background:#000000;
-  border:2px solid ;
+  border:2px solid lime;
   position: relative;
   border-radius:15px;
 }
