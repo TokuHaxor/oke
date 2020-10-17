@@ -112,13 +112,13 @@ table, th, td {
 }
 li{
   background:#000000;
- border:2px solid lime;
+ border:2px solid white;
  position: relative;
  border-radius:15px; 
    }
    li:hover{
   background:#000000;
- border:2px solid lime;
+ border:2px solid white;
  position: relative;
  border-radius:15px;
    }
